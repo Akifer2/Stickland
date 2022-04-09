@@ -12,4 +12,6 @@
 
 ### discord da stickland:
 
+[Links to README.md H6](#README/h6-headings)
+
 https://discord.gg/xFXw7vW 
