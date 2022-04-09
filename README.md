@@ -12,4 +12,4 @@
 
 ### discord da stickland:
 
-https://discord.gg/xFXw7vW 
+<a target = "blank">https://discord.gg/xFXw7vW<a>
